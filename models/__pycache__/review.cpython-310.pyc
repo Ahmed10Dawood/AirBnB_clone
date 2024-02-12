@@ -1,0 +1,19 @@
+o
+    ø£ïbR   ã                    @   s$   d Z d d l m Z   G d d „ d e ƒ Z d S ) z Defines the Review class.é    ) Ú	BaseModelc                    @   s    e Z d Z d Z d Z d Z d Z d S ) Ú ReviewzŸRepresent a review.
+
+    Attributes:
+        place_id (str): The Place id.
+        user_id (str): The User id.
+        text (str): The text of the review.
+    Ú N)Ú __name__Ú
+__module__Ú 
+__qualname__Ú__doc__Z place_idÚuser_idÚ text© r
+   r
+   ú3/home/lexxyla/Desktop/AirBnB_clone/models/review.pyr        s
+             r    N) r    Ú models.base_modelr    r    r
+   r
+   r
+   r 
+   Ú <module>    s       
+   
+
